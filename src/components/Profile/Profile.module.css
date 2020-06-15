@@ -1,0 +1,43 @@
+.sea {
+  width: 100%;
+  height: 200px;
+  border-radius: 5px;
+}
+
+.main_avatar {
+  display: inline-flex;
+  min-height: auto;
+}
+
+.ava {
+  padding-left: 10px;
+  padding-top: 10px;
+  min-width: 150px;
+  background-color: rgb(119, 157, 241);
+  margin: 2px;
+  border-radius: 5px;
+}
+
+.ava img {
+  width: 70px;
+  height: 70px;
+  border-radius: 25px;
+  margin-top: 10px;
+  margin-left: 10px;
+  /* border: 1px solid black; */
+}
+
+.ava p {
+  text-align: center;
+  min-width: 100px;
+  /* border: 1px solid black; */
+}
+
+.description {
+  padding: 5px 30px 5px 30px;
+  text-align: justify;
+}
+
+/* .posts {
+  padding-left: 10px;
+} */

@@ -1,0 +1,28 @@
+.dialogs {
+  display: grid;
+  grid-template-columns: 2fr 8fr;
+  /* border: 2px solid black; */
+}
+
+.dialogsItem {
+  padding: 20px;
+  margin: 2px;
+  /* border: 2px solid black; */
+}
+
+.dialog {
+  color: rgb(9, 80, 80);
+  font-size: 25px;
+}
+
+.messages {
+  padding: 20px;
+  margin: 2px;
+  /* border: 2px solid black; */
+}
+
+.message {
+  color: rgb(9, 80, 80);
+  font-size: 25px;
+  font-style: italic;
+}

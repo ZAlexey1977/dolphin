@@ -1,0 +1,23 @@
+.nav {
+  grid-area: n;
+  background-color: rgb(119, 157, 241);
+  padding-left: 20px;
+  padding-top: 20px;
+  font-size: 23px;
+  border-radius: 5px;
+  min-height: 800px;
+
+}
+
+a {
+  text-decoration: none;
+  color: azure;
+}
+
+a:hover {
+  color: blue;
+}
+
+a.active {
+  color: rgb(0, 0, 255);
+}

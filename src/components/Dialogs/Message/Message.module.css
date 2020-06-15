@@ -1,0 +1,11 @@
+.messages {
+  padding: 20px;
+  margin: 2px;
+  /* border: 2px solid black; */
+}
+
+.message {
+  color: rgb(9, 80, 80);
+  font-size: 25px;
+  font-style: italic;
+}
